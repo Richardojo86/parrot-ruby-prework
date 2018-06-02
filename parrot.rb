@@ -2,4 +2,5 @@
 # returns the phrase
 def parrot(element = "ally wanna cracker")
   puts "Ally would like a cracker"
+  element
 end 
